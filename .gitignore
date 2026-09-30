@@ -1,0 +1,15 @@
+# Private listening data and exports
+/data/raw/
+/data/private/
+/exports/
+*.xlsx
+*.csv
+*.tsv
+
+# Local credentials and generated files
+.env
+.env.*
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
