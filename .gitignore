@@ -9,6 +9,9 @@
 # Local credentials and generated files
 .env
 .env.*
+*.env
+*.pem
+*.key
 __pycache__/
 *.py[cod]
 .DS_Store
