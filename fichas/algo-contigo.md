@@ -305,18 +305,6 @@ Esta playlist suena a enamorarse porque no idealiza solo el final. También mues
 
 ---
 
-## Qué falta antes de publicar
-
-- [ ] Confirmar y congelar la secuencia de canciones que acompañará la ficha.
-- [ ] Decidir si la publicación saldrá como **pública tal cual** o como **public cut**.
-- [ ] Definir la playlist pública final con URL, portada y descripción corta para Spotify.
-- [ ] Identificar formalmente canciones ancla y canciones disruptivas dentro de la secuencia final.
-- [ ] Diseñar la portada y el carrusel tipo vinil para que la pieza tenga salida visual consistente.
-- [ ] Hacer una última revisión de exposición: retirar cualquier referencia que pueda sentirse como indirecta rastreable o exceso biográfico.
-- [ ] Confirmar si esta ficha será la primera salida pública de Estante Musical o si debe acompañarse de una carta editorial breve de Punto Común.
-
----
-
 ## Ficha breve
 
 **Título:** ¿Algo contigo?  
